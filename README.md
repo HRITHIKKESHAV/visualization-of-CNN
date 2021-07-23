@@ -1,1 +1,3 @@
 # visualization-of-CNN
+In these project, we have visualized convolutional neural network to recognize the handwritten numbers. Here instead of giving the handwritten number, we are inputting the number from the keyboard. After inputting the number we have used left and right mouse keys to navigate through the inner layers of CNN network where left key is used to move forward and right key is used to move backward. There are four layers which are output layer, hidden layer 1 , hidden layer 2 and output layer. Each layer after the input layer get input from its previous layers. At last, the matching number with input is shown.
+![image](https://user-images.githubusercontent.com/55474882/126805981-0c752499-76b1-48c7-a0cf-a6c0bd848ee3.png)
